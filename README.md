@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivakrishna81
+- 👋 Hi, I’m Shiva Krishna
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Development(MERN)
 - 💞️ I’m looking to collaborate on Software engineer roles
