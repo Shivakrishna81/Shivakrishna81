@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiva Krishna
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working as a Full Stack Development(MERN)
+- 🌱 I’m currently working as a Full Stack Developer(MERN)
 - 💞️ I’m looking to collaborate on Software engineer roles
 - 📫 How to reach me - shivakrishnabandari59@gmail.com
 
